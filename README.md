@@ -1,6 +1,6 @@
 # WordPress_PluginScanner
 
-Usage: wp_plugin_scan.py http://site.com
+Usage: `wp_plugin_scan.py http://site.com`
 
 Uses a 404 method check for existing plugins. 100 Threads. Bring it.
 
